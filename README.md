@@ -144,3 +144,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [Gin reference implementation](https://github.com/mailexam/Gin) — same SMTP module pattern
 - [Beego documentation](https://beego.vip/docs/)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0

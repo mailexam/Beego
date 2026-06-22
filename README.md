@@ -142,6 +142,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 - [Mailexam Beego guide (wiki)](https://wiki.mailexam.ru/en/examples/beego/)
 - [Gin reference implementation](https://github.com/mailexam/Gin) — same SMTP module pattern
+- [Echo reference implementation](https://github.com/mailexam/Echo) — another Go framework with the same SMTP module
 - [Beego documentation](https://beego.vip/docs/)
 - [Mailexam API documentation](https://mailexam.io/api)
 
